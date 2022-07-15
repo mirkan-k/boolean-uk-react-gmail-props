@@ -1,9 +1,9 @@
 import { StrictMode } from 'react'
 import ReactDOM from 'react-dom'
 
-import App from './app'
+import App from './App'
 
-import './styles/styles.css'
+import './styles/Styles.css'
 
 const rootElement = document.getElementById('root')
 ReactDOM.render(
